@@ -14,7 +14,7 @@ using UdemyRealWordUnitTest.Web.Repository;
 
 namespace UdemyRealWordUnitTest.Web
 {
-    //Scaffold-DbContext "Data Source=FATIH-EXCALIBUR\SQLEXPRESS;Initial Catalog=UdemyUnitTestDB;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" Microsoft.EntityFrameworkCore.SqlServer -OutputDir Models
+   
 
     public class Startup
     {
